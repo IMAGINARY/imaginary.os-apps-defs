@@ -1,0 +1,16 @@
+{
+  "id": "soe",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/soe.js.dev.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Mappae Mundi",
+    "de": "Mappae Mundi"
+  },
+  "description": {
+  }
+}

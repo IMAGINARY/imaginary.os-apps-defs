@@ -1,0 +1,16 @@
+{
+  "id": "meltingicecaps",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/IceCaps-MPT2017.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Simulating the Melting of Ice Caps",
+    "de": "Simulating the Melting of Ice Caps"
+  },
+  "description": {
+  }
+}

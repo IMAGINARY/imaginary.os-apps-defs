@@ -1,0 +1,16 @@
+{
+  "id": "morenaments",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/morenaments.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Morenaments",
+    "de": "Morenaments"
+  },
+  "description": {
+  }
+}

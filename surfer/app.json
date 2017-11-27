@@ -1,0 +1,16 @@
+{
+  "id": "surfer",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/SURFER.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Surfer",
+    "de": "Surfer"
+  },
+  "description": {
+  }
+}

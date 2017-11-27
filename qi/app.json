@@ -1,0 +1,16 @@
+{
+  "id": "qi",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/qi.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Qi",
+    "de": "Qi"
+  },
+  "description": {
+  }
+}

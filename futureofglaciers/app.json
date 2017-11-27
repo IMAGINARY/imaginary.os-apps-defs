@@ -1,0 +1,16 @@
+{
+  "id": "futureofglaciers",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/the-future-of-glaciers.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "The Future Of Glaciers",
+    "de": "Zukunft der Gletscher"
+  },
+  "description": {
+  }
+}

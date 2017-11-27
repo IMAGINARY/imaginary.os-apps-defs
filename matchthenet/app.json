@@ -1,0 +1,16 @@
+{
+  "id": "matchthenet",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/MatchTheNet.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "MatchTheNet",
+    "de": "MatchTheNet"
+  },
+  "description": {
+  }
+}

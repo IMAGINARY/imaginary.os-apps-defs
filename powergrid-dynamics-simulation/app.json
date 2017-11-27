@@ -1,0 +1,16 @@
+{
+  "id": "powergriddynamicssimulator",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/psd.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Power Grid Dynamics Simulation",
+    "de": "Power Grid Dynamics Simulation"
+  },
+  "description": {
+  }
+}

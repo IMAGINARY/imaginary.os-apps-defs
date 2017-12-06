@@ -8,8 +8,10 @@
     "SHOW_CLOSE_BUTTON": "1"
   },
   "name": {
-    "en": "Surfer",
-    "de": "Surfer"
+    "en": "SURFER",
+    "de": "SURFER",
+    "fr": "SURFER",
+    "nl": "SURFER"
   },
   "description": {
   }

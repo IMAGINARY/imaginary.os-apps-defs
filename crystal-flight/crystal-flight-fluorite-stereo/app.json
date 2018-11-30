@@ -1,0 +1,15 @@
+{
+  "id": "crystal-flight-fluorite-stereo",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/crystal-flight/Fluoritkristall-stereo.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Fluorite",
+    "de": "Fluorit"
+  },
+  "description": ""
+}

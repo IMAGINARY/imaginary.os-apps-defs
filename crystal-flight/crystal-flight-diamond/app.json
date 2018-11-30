@@ -1,0 +1,15 @@
+{
+  "id": "crystal-flight-diamond",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/crystal-flight/Diamantkristall.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Diamond",
+    "de": "Diamant"
+  },
+  "description": ""
+}

@@ -1,0 +1,15 @@
+{
+  "id": "crystal-flight-spherical",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/crystal-flight/Spherical.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Spherical",
+    "de": "Sphärisch"
+  },
+  "description": ""
+}

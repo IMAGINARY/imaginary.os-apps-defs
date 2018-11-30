@@ -1,0 +1,15 @@
+{
+  "id": "crystal-flight-hyperbolic",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/crystal-flight/Hyperbolic.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Hyperbolic",
+    "de": "Hyperbolisch"
+  },
+  "description": ""
+}

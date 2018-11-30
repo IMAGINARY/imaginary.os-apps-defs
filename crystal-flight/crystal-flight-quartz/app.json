@@ -1,0 +1,15 @@
+{
+  "id": "crystal-flight-quartz",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "/opt/crystal-flight/Quarzkristall.sh",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Quartz",
+    "de": "Quarz"
+  },
+  "description": ""
+}

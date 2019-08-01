@@ -2,7 +2,7 @@
   "id": "frozenlight",
   "version": "1.0.0",
   "type": "executable",
-  "main": "/opt/FroZenLight.sh",
+  "main": "exhibit-frozenlight",
   "shell": true,
   "env": {
     "SHOW_CLOSE_BUTTON": "1"

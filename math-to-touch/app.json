@@ -1,0 +1,20 @@
+{
+  "id": "math-to-touch",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "exhibit-math-to-touch",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Math to Touch",
+    "es": "Matemática para tocar",
+    "ru": "Математика на ощупь",
+    "ro": "Matematica de atins",
+    "it": "Math to Touch",
+    "pt-br": "Matemática para tocar"
+  },
+  "description": {
+  }
+}

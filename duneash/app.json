@@ -2,7 +2,7 @@
   "id": "duneash",
   "version": "1.0.0",
   "type": "executable",
-  "main": "/opt/dune-ash.sh",
+  "main": "exhibit-dune-ash",
   "shell": true,
   "env": {
     "SHOW_CLOSE_BUTTON": "1"
@@ -12,7 +12,6 @@
     "de": "Dune Ash",
     "fr": "Dune Ash",
     "nl": "Dune Ash"
-    
   },
   "description": {
     "en": "interactive simulation of a volcano eruption in Europe. You can place a volcano, add a wind field and explore the ash cloud dispersing in time."

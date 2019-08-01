@@ -1,0 +1,13 @@
+{
+  "id": "info-mfo",
+  "version": "1.4.0",
+  "main": "app.html",
+  "width": 1920,
+  "height": 1000,
+  "name": {
+    "en": "Info"
+  },
+  "description": {
+    "en": "Info page for 'IMAGINARY – OPEN MATHEMATICS'"
+  }
+}

@@ -1,8 +1,8 @@
 {
-  "id": "powergriddynamicssimulator",
+  "id": "powergrid-dynamics-simulation",
   "version": "1.0.0",
   "type": "executable",
-  "main": "/opt/psd.sh",
+  "main": "exhibit-powergrid-dynamics-simulation",
   "shell": true,
   "env": {
     "SHOW_CLOSE_BUTTON": "1"

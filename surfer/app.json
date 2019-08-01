@@ -2,16 +2,16 @@
   "id": "surfer",
   "version": "1.0.0",
   "type": "executable",
-  "main": "/opt/SURFER.sh",
+  "main": "exhibit-surfer",
   "shell": true,
   "env": {
     "SHOW_CLOSE_BUTTON": "1"
   },
   "name": {
-    "en": "SURFER",
-    "de": "SURFER",
-    "fr": "SURFER",
-    "nl": "SURFER"
+    "en": "Surfer",
+    "de": "Surfer",
+    "fr": "Surfer",
+    "nl": "Surfer"
   },
   "description": {
   }

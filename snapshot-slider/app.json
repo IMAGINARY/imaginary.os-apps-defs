@@ -1,0 +1,18 @@
+{
+  "id": "snapshot-slider",
+  "version": "1.0.0",
+  "type": "executable",
+  "main": "exhibit-snapshot-slider",
+  "shell": true,
+  "env": {
+    "SHOW_CLOSE_BUTTON": "1"
+  },
+  "name": {
+    "en": "Snapshot Slider",
+    "de": "Snapshot Slider",
+    "fr": "Snapshot Slider",
+    "nl": "Snapshot Slider"
+  },
+  "description": {
+  }
+}

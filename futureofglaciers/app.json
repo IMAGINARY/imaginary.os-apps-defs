@@ -2,7 +2,7 @@
   "id": "futureofglaciers",
   "version": "1.0.0",
   "type": "executable",
-  "main": "/opt/the-future-of-glaciers.sh",
+  "main": "exhibit-the-future-of-glaciers",
   "shell": true,
   "env": {
     "SHOW_CLOSE_BUTTON": "1"

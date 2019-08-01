@@ -1,14 +1,14 @@
 {
-  "id": "meltingicecaps",
+  "id": "melting-ice-caps",
   "version": "1.0.0",
   "type": "executable",
-  "main": "/opt/IceCaps-MPT2017.sh",
+  "main": "exhibit-melting-ice-caps",
   "shell": true,
   "env": {
     "SHOW_CLOSE_BUTTON": "1"
   },
   "name": {
-    "en": "Simulating the Melting of Ice Caps",
+    "en": "The Melting of Ice Caps",
     "de": "Simulation des Schmelzens von Eiskappen",
     "fr": "Simuler la fonte des calottes polaires",
     "nl": "Simulating the Melting of Ice Caps"
